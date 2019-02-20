@@ -1,0 +1,27 @@
+.eventsList {
+    width: 100%;
+}
+
+.eventListBanner {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.eventsList .row {
+    width: 100%;
+}
+
+.eventsList .row .date {
+    border-bottom: 1px solid #AAAAAA;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.eventsList .row .date.selected {
+    background-color: #Af0000;
+    color: white;
+}

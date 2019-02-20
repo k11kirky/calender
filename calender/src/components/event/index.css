@@ -1,0 +1,15 @@
+.eventWrapper {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #EAEAEA;
+    border-bottom: 1px solid #EAEAEA;
+}
+.eventWrapper .eventDate {
+    font-size: 70%;
+    width: 100%;
+}
+.eventWrapper .eventName {
+    font-weight: 700;
+    width: 100%;
+}
